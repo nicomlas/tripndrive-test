@@ -1,13 +1,11 @@
 tripndrive-test
 ===============
 
-Application de test pour Tripndrive
+Application de test pour Tripndrive.
 
 Afin de mesurer au mieux la capicité de développement, rien de mieux que de développer :)
 
-Je vous propose donc de forker ce projet en privé, d'effectuer l'exercice suivant et de le pusher.
-
-Une fois réalisé, communiquez le à job@tripndrive.com
+Je vous propose donc de cloner ce projet, d'effectuer l'exercice suivant et me l'envoyer à job@tripndrive.com.
 
 
 Exercice
